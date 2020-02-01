@@ -11,6 +11,8 @@
 
 ### 사용한 모델
 
+  * Attention 기반 Bi-LSTM을 사용했다.
+
  ![model](./image/model.jpg)
  
 ### 성능
@@ -20,4 +22,5 @@
 Acc: 82
 
  ![3](./image/3.PNG) 
- ![4](./image/3.PNG) 
+ 
+ ![4](./image/4.PNG) 
